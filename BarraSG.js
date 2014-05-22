@@ -5,8 +5,8 @@
 // @icon		data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAnNJREFUeNrsl01IVFEUgOeplRKhWWhoPwRRFAkRCWHloiiIFJIoiAhmk4taKEGbNm1a1Ca3bqRyES2yTbQoW2SrYiAjKFxILbKFhTREZlF5+w6dB4fba94bmzez8cDH5d173rnn3vPzZgLnXKaSUpWpsCw6kJqQW33uj7yDe3AOGsvpQJv7Wx6UMwSvYdabGy13GF6Z08/DprLcABu1gtj+aKYfBkEw6evWFGl4CUMbbIHVUB0u6WZv4QXsgz6oN+uXFnqaALpgBL64ePkB497cEByF5mI37/Li+D8yVMzG9XriUoncQJB08xWQc6WVr3KbSVvxZpgqcWHUwW2c2JDEAcnijhSqUypoexIHdkFTCg4shdrIPsDV7GY4BDlYlmJz7JB8YGzXxvRUNs96CTPp0pPP3nNWmowkXGuM549gHNZBNyz/h943uA9vYBscibH7PpPA6ytemTbJZzVCL+dnOc8X4oyL0nSMTosx2AI9UAcTRmcKGuAwbDT6tfC9gO1pqYLhBNkbSg+MgHS1ATM/SELlGe9A1iu9Qh+84bDzjRXw8qo50Sq4CNXQaXSOmStfa/TP6/rPCLtPZO9QsQoOQL9Rvq5Z+wt6I1r2NWPspt/reT6h1y9c9nT36++FjP/SSYZb+nhGv/F3tWFNaDXMaafc4/n0HMb0N0In7NB5CclLXQ877U5C5vwT1XiJ1a7z3fBpATU/C6fVhoRsxqwdj/oK9hqFmfCKdK0ZBiCfYGP50TII6z37NzSco3AwnA+MQgODeHxKrosrOhvhpFTEXg3BVlip4clriJ7BY96di3h3DcM8ax/sfLD457TSDvwWYABGHJyrDAOTugAAAABJRU5ErkJggg==
 // @include		*://*.facebook.com/*
 // @version		0.21
-// @date		2013/06/08
-// @updateURL	http://userscripts.org/scripts/source/169272.user.js
+// @date		2014/05/22
+// @updateURL	http://raw.githubusercontent.com/setaroja/SG/4b495d4ce40a14cdf3683c188dfdbf12f77126bd/BarraSG.js
 // ==/UserScript==
 
 function sgMenu() {
